@@ -1,0 +1,13 @@
+dependencies:
+  - python=3
+  - pip:
+    - numpy
+    - requests
+    - matplotlib
+    - ipykernel
+    - re
+    - wordcould
+    - json
+    - jieba
+    - bs4
+    
